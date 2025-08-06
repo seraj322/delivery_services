@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+aiomysql
+pydantic
+redis
+celery
+httpx
+python-dotenv
+alembic
+python-multipart 
+pydantic-settings
+itsdangerous
+asgiref
